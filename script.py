@@ -3,10 +3,10 @@ import numpy as np
 def increment_x_value ():
    nplist= np.array([1,1,1,1,1,1,1,1])
    nplength = len(nplist)
-   x = 0
+   x =2
 
    for i in range (nplength):
-      x = x +1
+      x = x +5
 
    return (x)
 
