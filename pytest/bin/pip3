@@ -1,4 +1,4 @@
-#!/root/gittest/pytest/bin/python3
+#!/home/ubuntu/git_test/gittest/pytest/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
